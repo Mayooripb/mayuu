@@ -86,8 +86,8 @@ header p {
   display: flex;
 }
 .pads > div {
-  height: 200px;
-  width: 200px;
+  height: 300px;
+  width: 300px;
   flex: 1;
 }
 .pad1 {
